@@ -11,4 +11,4 @@
            \o\     ,'  ,'    `.  `.     /o/
             \o`---'  ,'        `.  `---'o/
              `.____,'    -Hi!    `.____,'
-                   My name is Otto!
+                   My name is John!
